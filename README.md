@@ -5,7 +5,9 @@ Atividade desenvolvida para a disciplina de Redes II do curso de Ciência da Com
 Descrição da atividade
 ------------------------ 
 
-### Especificações:
+Implemente um chat que permita a comunicação de dois ou mais usuários através do terminal.
+
+## Especificações:
 
 - O programa deverá ser escrito em linguagem C ou C++;
 - A conexão deverá ser realizada através de um socket TCP;
