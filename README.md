@@ -1,13 +1,13 @@
 ## Chat tcp multi-client em C
 
-####Atividade desenvolvida para a disciplina de Redes II do curso de Ciência da Computação do Instituto Federal Catarinense - Campus Videira
+Atividade desenvolvida para a disciplina de Redes II do curso de Ciência da Computação do Instituto Federal Catarinense - Campus Videira
 
 Descrição da atividade
 ------------------------ 
 
-###Especificações:
+### Especificações:
 
-- O programa deverá ser escrito em linguagem C ou C++
+- O programa deverá ser escrito em linguagem C ou C++;
 - A conexão deverá ser realizada através de um socket TCP;
 - Deverá ser uma aplicação do tipo cliente/servidor;
     - O servidor deverá poder ser instalado em qualquer computador da Internet;
